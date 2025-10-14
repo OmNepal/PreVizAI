@@ -10,14 +10,7 @@
 
 </div>
 
----
 
-## 🔗 Demo Links
-- **Live Demo:** <!-- Add deployed site link here -->
-- **Video Walkthrough:** <!-- Add demo video link here -->
-- **Presentation Slides:** <!-- Add link to slides -->
-
----
 ## ✨ Project Vision
 PreVizAI is a modern, HIPAA-conscious healthcare web application built with Next.js and Cedar OS Voice Capabilities, designed to streamline and transform pre-appointment patient intake through natural, conversational AI.
 
@@ -164,15 +157,15 @@ The AI generates a structured document that includes:
 ---
 
 ## 👥 Team
-- **Arjun Pun Magar** – Frontend & Cedar OS Integration  
-- **Vinh Pham** – Backend & Flask API (Neo4j Graph Visualization)  
-- **Om Nepal** – AI Prompt Engineering / Medical Report Design  
+- **Om Nepal** – AI Engineering & Cedar OS Integration 
+- **Arjun Pun Magar** – Communications 
+- **Vinh Pham** – Neo4j Graph Visualization & Backend 
 - **Jonathan Navarro** – Project Manager 
 
 ---
 
 ## 🙏 Acknowledgements
-Special thanks to the Cedar OS team for providing the voice SDK and support during HackGT.
+Special thanks to the Cedar OS team for the support during HackGT.
 
 ---
 
