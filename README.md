@@ -67,7 +67,7 @@ PreVizAI replaces traditional forms with a natural, voice-powered patient intake
 ### 1️⃣ Clone & Install
 ```bash
 # Clone the repository
-git clone https://github.com/arjunmagarcode/PreVizAI
+git clone https://github.com/OmNepal/PreVizAI
 cd PreVizAI   # or the folder name where you cloned the repo
 
 # Install frontend dependencies
@@ -131,13 +131,11 @@ npm run dev
 ## 🎮 Usage Guide
 
 ### For Doctors
-Visit: [http://localhost:3000/doctor](http://localhost:3000/doctor)  
 - Send intake requests to patients.  
 - Review completed reports and explore the Knowledge Graph (if enabled).
 
 ### For Patients
-Visit: [http://localhost:3000/patient](http://localhost:3000/patient)  
-- Click the microphone to start Cedar OS voice intake.  
+- Click the microphone to start natural language voice intake.  
 - Describe symptoms naturally and answer follow-up questions.  
 - Submit when finished — doctor receives the report.
 
