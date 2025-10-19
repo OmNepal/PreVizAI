@@ -144,10 +144,11 @@ npm run dev
 ## 📄 Medical Report Structure
 The AI generates a structured document that includes:
 
-- **Chief Complaint** – patient’s primary concern in their own words  
+- **Chief Complaint** – patient’s primary concern in their own words
 - **History of Present Illness (HPI)** – duration, severity, onset, context  
 - **Triggers & Relieving Factors** – diagnostic clues  
-- **Medical History & Medications**  
+- **Medical History & Medications**
+- **EMR based medical insights** 
 - **Red Flag Symptoms** – urgent warning signs  
 - **Functional Impact** – effect on daily life  
 - **Recommended Follow-up Actions** – suggested next steps  
